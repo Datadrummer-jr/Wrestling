@@ -1,0 +1,2837 @@
+{
+    "2000":{
+        "greco-romana":{
+            "Sim Gwon-Ho":{
+            "peso":54,
+            "país": "Corea del Sur",
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Lázaro Rivas": {
+            "peso":54,
+            "país": "Cuba",
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Kang Yong-Gyun": {
+            "peso":54,
+            "país": "Corea del Norte",
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Armen Nazaryan": {
+            "peso":58,
+            "país": "Bulgaria",
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Kim In-Seop": {
+            "peso":58,
+            "país": "Corea del Sur",
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Sheng Zetian": {
+            "peso":58,
+            "país": "China",
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Varteres Samurgashev": {
+            "peso":63,
+            "país": "Rusia",
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Juan Luis Marén": {
+            "peso":63,
+            "país": "Cuba",
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+             "Ak'ak'i Chachua": {
+            "peso":63,
+            "país": "Georgia",
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Filiberto Azcuy": {
+            "peso":69,
+            "país": "Cuba",
+            "sexo":"M",
+            "medalla": "Oro"
+             } ,
+            "Katsuhiko Nagata": {
+                    "peso":69,
+                    "país": "Japon",
+                    "sexo":"M",
+                    "medalla": "Plata"
+            },
+            "Aleksey Glushkov": {
+                    "peso":69,
+                     "país": "Rusia",
+                    "sexo":"M",
+                    "medalla": "Bronce"
+            },
+            "Murat Kardanov": {
+            "peso":76,
+            "país": "Rusia",
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Matt Lindland": {
+            "peso":76,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Marko Yli-Hannuksela": {
+            "peso":76,
+            "país":"Finlandia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Hamza Yerlikaya": {
+            "peso":85,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Sándor István Bárdosi": {
+            "peso":85,
+            "país":"Hungria" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Mukhran Vakht'angadze": {
+            "peso":85,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Mikael Ljungberg": {
+            "peso":97,
+            "país":"" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Davyd Soldadze": {
+            "peso":97,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Garrett Lowney": {
+            "peso":97,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Rulon Gardner": {
+            "peso":130,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Aleksandr Karelin": {
+            "peso":130,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Dzmitry Dziabelka": {
+            "peso":130,
+            "país":"Belarus" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            }
+        },
+        "libre":{
+          "Namiq Abdullayev": {
+            "peso":54,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Sammie Henson": {
+            "peso":54,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Amiran Kardanov": {
+            "peso":54,
+            "país":"Grecia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Ali Reza Dabir": {
+            "peso":58,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Yevhen Buslovych": {
+            "peso":58,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Terry Brands": {
+            "peso":58,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Murad Umakhanov": {
+            "peso":63,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Serafim Barzakov": {
+            "peso":63,
+            "país":"Bulgaria" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Jang Jae-Seong": {
+            "peso":63,
+            "país":"Corea del Sur" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Daniel Igali": {
+            "peso":69,
+            "país":"Canada" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Arsen Guitinov": {
+            "peso":69,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Lincoln McIlravy": {
+            "peso":69,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Brandon Slay": {
+            "peso":76,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Moon Eui-Jae": {
+            "peso":76,
+            "país":"Corea del Sur",
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Adem Bereket": {
+            "peso":76,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Adam Saitiyev": {
+            "peso":85,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Yoel Romero Palacio": {
+            "peso":85,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Mogamed Ibraguimov": {
+            "peso":85,
+            "país":"Macedonia del Norte" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Saguid Murtazaliyev": {
+            "peso":97,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Islam Bairamukov": {
+            "peso":97,
+            "país":"Kazajistán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Eldar Kurtanidze": {
+            "peso":97,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "David Musulbes": {
+            "peso":130,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Artur Taymazov": {
+            "peso":130,
+            "país":"Uzbekistán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Alexis Rodríguez Valera": {
+            "peso":130,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            }
+        },
+        "url":"https://www.olympedia.org/editions/25/sports/WRE/",
+        "sede": " Sídney,Australia",
+        "instalación": "Estadio_Panathinaikó"
+    },
+    "2004":{
+        "greco-romana":{
+          "István Majoros": {
+            "peso":55,
+            "país":"Hungria" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Gueidar Mamedaliyev": {
+            "peso":55,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Artiom Kiureguian": {
+            "peso":55,
+            "país":"Grecia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Jung Ji-Hyun": {
+            "peso":60,
+            "país":"Corea del Sur" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Roberto Monzón González": {
+            "peso":60,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Armen Nazarian": {
+            "peso":60,
+            "país":"Bulgaria" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Fərid Mansurov": {
+            "peso":66,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Şeref Eroğlu": {
+            "peso":66,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Mjitar Manukian": {
+            "peso":66,
+            "país":"Kazajistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Alexandr Dokturishvili": {
+            "peso":74,
+            "país":"Uzbekistán" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Marko Yli-Hannuksela": {
+            "peso":74,
+            "país":"Finlandia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Varteres Samurgashev": {
+            "peso":74,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Alexei Mishin": {
+            "peso":84,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Abrahamian": {
+            "peso":84,
+            "país":"Suecia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Viachaslau Makaranka": {
+            "peso":84,
+            "país":"Bieorrusia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Karam Gaber": {
+            "peso":96,
+            "país":"Egipto",
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Ramaz Nozadze": {
+            "peso":96,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Mehmet Özal": {
+            "peso":96,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Jasan Baroyev": {
+            "peso":120,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Gueorgui Tsurtsumia": {
+            "peso":120,
+            "país":"Kazajistán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Rulon Gardner": {
+            "peso":120,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            }
+        },
+        "libre": {
+            "Mavlet Batirov": {
+            "peso":55,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Stephen Abas": {
+            "peso":55,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Chikara Tanabe": {
+            "peso":55,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Yandro Quintana Rivalta": {
+            "peso":60,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Masud Mostafa Yokar": {
+            "peso":60,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Kenji Inoue": {
+            "peso":60,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Elbrus Tedeyev": {
+            "peso":66,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Jamill Kelly": {
+            "peso":66,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Majach Murtazaliyev": {
+            "peso":66,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Buvaisar Saitiyev": {
+            "peso":74,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Guennadi Laliyev": {
+            "peso":74,
+            "país":"Kazajistán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Iván Fundora Zaldívar": {
+            "peso":74,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Cael Sanderson": {
+            "peso":84,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Moon Eui-jae": {
+            "peso":84,
+            "país":"Corea del Sur" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Sazhid Sazhidov": {
+            "peso":84,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Jadzhimurat Gatsalov": {
+            "peso":96,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Magomed Ibragimov": {
+            "peso":96,
+            "país":"Uzbekistán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Alireza Heidari": {
+            "peso":96,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Artur Taymazov": {
+            "peso":120,
+            "país":"Uzbekistán" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Alireza Rezaei": {
+            "peso":120,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Aydın Polatçı": {
+            "peso":120,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+             "Iryna Merleni": {
+            "peso":48,
+            "país":"Ucrania" ,
+            "sexo":"F",
+            "medalla": "Oro"
+            },
+            "Chiharu Icho": {
+            "peso":48,
+            "país":"Japon" ,
+            "sexo":"F",
+            "medalla": "Plata"
+            },
+            "Patricia Miranda": {
+            "peso":48,
+            "país":"EE.UU" ,
+            "sexo":"F",
+            "medalla": "Bronce"
+            },
+            "Saori Yoshida": {
+            "peso":55,
+            "país":"Japon" ,
+            "sexo":"F",
+            "medalla": "Oro"
+            },
+            "Tonya Verbeek": {
+            "peso":55,
+            "país":"Canada" ,
+            "sexo":"F",
+            "medalla": "Plata"
+            },
+            "Anna Gomis": {
+            "peso":55,
+            "país":"Francia" ,
+            "sexo":"F",
+            "medalla": "Bronce"
+            },
+            "Kaori Icho": {
+            "peso":63,
+            "país":"Japon" ,
+            "sexo":"F",
+            "medalla": "Oro"
+            },
+            "Sara McMann": {
+            "peso":63,
+            "país":"EE.UU" ,
+            "sexo":"F",
+            "medalla": "Plata"
+            },
+            "Lise Legrand": {
+            "peso":63,
+            "país":"Francia" ,
+            "sexo":"F",
+            "medalla": "Bronce"
+            },
+            "Wang Xu": {
+            "peso":72,
+            "país":"China" ,
+            "sexo":"F",
+            "medalla": "Oro"
+            },
+            "Guiuzel Maniurova": {
+            "peso":72,
+            "país":"Rusia" ,
+            "sexo":"F",
+            "medalla": "Plata"
+            },
+            "Kyoko Hamaguchi": {
+            "peso":72,
+            "país":"Japon" ,
+            "sexo":"F",
+            "medalla": "Bronce"
+            }
+        },
+        "url":"https://www.olympedia.org/editions/26/sports/WRE/",
+        "sede": "Atenas,Grecia",
+        "instalación": "Centro_Olímpico_Ano_Liosia"
+    },
+    "2008": {
+        "greco-romana":{
+          "Nazyr Mankiyev": {
+            "peso":55,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Rövşən Bayramov": {
+            "peso":55,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Roman Amoyan": {
+            "peso":55,
+            "país":"Armenia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Park Eun-Chul": {
+            "peso":55,
+            "país":"Corea del Sur" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Islam-Beka Albiyev": {
+            "peso":60,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Nurbakyt Tenguizbayev": {
+            "peso":60,
+            "país":"Kazajistán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Ruslan Tiumenbaye": {
+            "peso":60,
+            "país":"Kirguistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Sheng Jiang": {
+            "peso":60,
+            "país":"China" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Steeve Guénot": {
+            "peso":66,
+            "país":"Francia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Kanatbek Begaliyev": {
+            "peso":66,
+            "país":"Kirguistán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Mijail Siamionau": {
+            "peso":66,
+            "país":"Bieorrusia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Armen Vardanian": {
+            "peso":66,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Manuchar Kvirkvelia": {
+            "peso":74,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Chang Yongxiang": {
+            "peso":74,
+            "país":"China" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Yavor Yanakiev": {
+            "peso":74,
+            "país":"Bulgaria" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Christophe Guénot": {
+            "peso":74,
+            "país":"Francia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Andrea Minguzzi": {
+            "peso":84,
+            "país":"Italia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Zoltán Fodor": {
+            "peso":84,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Nazmi Avluca": {
+            "peso":84,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "descalificado": {
+            "peso":84,
+            "país": "descalificado" ,
+            "sexo":"descalificado",
+            "medalla": "Bronce"
+            },
+            "Aslanbek Jushtov": {
+            "peso":96,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Mirko Englich": {
+            "peso":96,
+            "país":"Alemania" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Marek Švec": {
+            "peso":96,
+            "país":"República Checa" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Adam Wheeler": {
+            "peso":96,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Mijaín López Núñez": {
+            "peso":120,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Mindaugas Mizgaitis": {
+            "peso":120,
+            "país":"Lituania" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Yannick Szczepaniak": {
+            "peso":120,
+            "país":"Francia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Yuri Patrikeyev": {
+            "peso":120,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            }
+        },
+        "libre": {
+            "Henry Cejudo": {
+            "peso":55,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Tomohiro Matsunaga": {
+            "peso":55,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Radoslav Velikov": {
+            "peso":55,
+            "país":"Bulgaria" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+             "Besik Kudujov": {
+            "peso":55,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Mavlet Batirov": {
+            "peso":60,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Kenichi Yumoto": {
+            "peso":60,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Bazar Bazarguruyev": {
+            "peso":60,
+            "país":"Kirguistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Morad Mohamadi": {
+            "peso":60,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Ramazan Şahin": {
+            "peso":66,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Andri Stadnik": {
+            "peso":66,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Otar Tushishvili": {
+            "peso":66,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Sushil Kumar": {
+            "peso":66,
+            "país":"India" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Buvaisar Saitiyev": {
+            "peso":74,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Murad Gaidarov": {
+            "peso":74,
+            "país":"Bieorrusia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Gheorghiță Ștefan": {
+            "peso":74,
+            "país":"Rumania" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Kiril Terziev": {
+            "peso":74,
+            "país":"Bulgaria" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Revaz Mindorashvili": {
+            "peso":84,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Yusup Abdusalomov": {
+            "peso":84,
+            "país":"Tayikistán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Gueorgui Ketoyev": {
+            "peso":84,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+             "Taras Danko": {
+            "peso":84,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Shirvani Muradov": {
+            "peso":96,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Guiorgui Gogshelidz": {
+            "peso":96,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Xetaq Qazyumov": {
+            "peso":96,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+             "Michel Batista": {
+            "peso":96,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Bajtiyar Ajmedov": {
+            "peso":120,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "David Musuľbes": {
+            "peso":120,
+            "país":"Eslovaquia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Disney Rodríguez": {
+            "peso":120,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Marid Mutalimov": {
+            "peso":120,
+            "país":"Kazajistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Carol Huynh": {
+                "peso":48,
+                "país":"Canada" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Chiharu Icho": {
+                "peso":48,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Mariya Stadnik": {
+                "peso":48,
+                "país":"Azerbaiyán" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                 "Iryna Merleni": {
+                "peso":48,
+                "país":"Ucrania" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Saori Yoshida": {
+                "peso":55,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Xu Li": {
+                "peso":55,
+                "país":"China" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Tonya Verbeek": {
+                "peso":55,
+                "país":"Canada" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Jackeline Rentería Castillo": {
+                "peso":55,
+                "país":"Colombia" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Kaori Icho": {
+                "peso":63,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Aliona Kartashova": {
+                "peso":63,
+                "país":"Rusia" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Randi Miller": {
+                "peso":63,
+                "país":"EE.UU" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Yelena Shalyguina": {
+                "peso":63,
+                "país":"Kazajistán",
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Wang Jiao": {
+                "peso":72,
+                "país":"China" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Stanka Zlateva": {
+                "peso":72,
+                "país":"Bulgaria" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Kyoko Hamaguchi": {
+                "peso":72,
+                "país":"Japon",
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Agnieszka Wieszczek": {
+                "peso":72,
+                "país":"Polonia" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                }
+    },
+    "sede":"Pekin,China",
+    "instalación": "Gimnasio de la Universidad de Agronomía de China",
+    "url":"https://www.olympedia.org/editions/53/sports/WRE/"
+},
+"2012":{
+    "greco-romana":{
+      "Hamid Sorian": {
+        "peso":55,
+        "país":"Irán" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Rövşən Bayramo": {
+        "peso":55,
+        "país":"Azerbaiyán" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Péter Módos": {
+        "peso":55,
+        "país":"Hungria" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Minguiyan Semionov": {
+        "peso":55,
+        "país":"Rusia" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Omid Noruz": {
+        "peso":60,
+        "país":"Irán" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Revaz Lashji": {
+        "peso":60,
+        "país":"Georgia" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Zaur Kuramagomedov": {
+        "peso":60,
+        "país":"Rusia" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Ryutaro Matsumoto": {
+        "peso":60,
+        "país":"Japon" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Kim Hyeon-Wu": {
+        "peso":66,
+        "país":"Corea del Sur" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Tamás Lőrincz": {
+        "peso":66,
+        "país":"Hungria" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Manuchar Tsjadaia": {
+        "peso":66,
+        "país":"Georgia" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+         "Steeve Guénot": {
+        "peso":66,
+        "país":"Francia" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Roman Vlasov": {
+        "peso":74,
+        "país":"Rusia" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Arsen Dzhulfalakian": {
+        "peso":74,
+        "país":"Armenia" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Aleksandr Kazakevič": {
+        "peso":74,
+        "país":"Lituania" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Emin Əhmədov": {
+        "peso":74,
+        "país":"Azerbaiyán" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Alan Jugayev": {
+        "peso":84,
+        "país":"Rusia" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Karam Gaber": {
+        "peso":84,
+        "país":"Egipto" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Daniyal Gadzhiyev": {
+        "peso":84,
+        "país":"Kazajistán" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Damian Janikowski": {
+        "peso":84,
+        "país":"Polonia" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Gasem Rezaei": {
+        "peso":96,
+        "país":"Irán" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Rustam Totrov": {
+        "peso":96,
+        "país":"Rusia" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Jimmy Lidberg": {
+        "peso":96,
+        "país":"Suecia" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+         },
+        "Artur Alexanian":{
+        "peso":96,
+        "país":"Armenia" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Mijaín López Núñez": {
+        "peso":120,
+        "país":"Cuba" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Heiki Nabi": {
+        "peso":120,
+        "país":"Estonia" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Johan Eurén": {
+        "peso":120,
+        "país":"Suecia" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+         "Rıza Kayaalp": {
+        "peso":120,
+        "país":"Turquía" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        }
+    },
+    "libre": {
+        "Dzhamal Otarsultanov": {
+        "peso":55,
+        "país":"Rusia" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Vladimer Khinchegashvili": {
+        "peso":55,
+        "país":"Georgia" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Shinichi Yumoto": {
+        "peso":55,
+        "país":"Japon" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+         "Yang Kyong-Il": {
+        "peso":55,
+        "país":"Corea del Norte" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Toğrul Əsgərov": {
+        "peso":60,
+        "país":"Azerbaiyán" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Besik Kudukhov": {
+        "peso":60,
+        "país":"Rusia" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Yogeshwar Dutt": {
+        "peso":60,
+        "país":"India" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Coleman Scott": {
+        "peso":60,
+        "país":"EE.UU" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Tatsuhiro Yonemitsu": {
+        "peso":66,
+        "país":"Japon" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Sushil Kumar": {
+        "peso":66,
+        "país":"India" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Liván López": {
+        "peso":66,
+        "país":"Cuba" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Akzhurek Tanatarov": {
+        "peso":66,
+        "país":"Kazajistán" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Jordan Burroughs": {
+        "peso":74,
+        "país":"EE.UU" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Sadegh Goudarzi": {
+        "peso":74,
+        "país":"Irán" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Gábor Hatos": {
+        "peso":74,
+        "país":"Hungria" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+         "Denis Tsargush": {
+        "peso":74,
+        "país":"Rusia" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Şərif Şərifov": {
+        "peso":84,
+        "país":"Kazajistán" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Jaime Espinal": {
+        "peso":84,
+        "país":"Puerto Rico" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Dato Marsagishvili": {
+        "peso":84,
+        "país":"Georgia" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+         "Ehsan Lashgari": {
+        "peso":84,
+        "país":"Irán" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Jake Varner": {
+        "peso":96,
+        "país":"EE.UU" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Valeriy Andriytsev": {
+        "peso":96,
+        "país":"Ucrania" ,
+        "sexo":"M",
+        "medalla": "Plata"
+        },
+        "Xetaq Qazyumov": {
+        "peso":96,
+        "país":"Azerbaiyán" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+         "Giorgi Gogshelidze": {
+        "peso":96,
+        "país":"Georgia" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Komeil Ghasemi": {
+        "peso":120,
+        "país":"Irán" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Bilyal Makhov": {
+        "peso":120,
+        "país":"Rusia" ,
+        "sexo":"M",
+        "medalla": "Oro"
+        },
+        "Daulet Shabanbay": {
+        "peso":120,
+        "país":"Kazajistán" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Tervel Dlagnev": {
+        "peso":120,
+        "país":"EE.UU" ,
+        "sexo":"M",
+        "medalla": "Bronce"
+        },
+        "Hitomi Obara": {
+            "peso":48,
+            "país":"Japon" ,
+            "sexo":"F",
+            "medalla": "Oro"
+            },
+            "Mariya Stadnik": {
+            "peso":48,
+            "país":"Azerbaiyán" ,
+            "sexo":"F",
+            "medalla": "Plata"
+            },
+            "Carol Huynh": {
+            "peso":48,
+            "país":"Canada" ,
+            "sexo":"F",
+            "medalla": "Bronce"
+            },
+             "Clarissa Chun": {
+            "peso":48,
+            "país":"EE.UU" ,
+            "sexo":"F",
+            "medalla": "Bronce"
+            },
+            "Saori Yoshida": {
+            "peso":55,
+            "país":"Japon" ,
+            "sexo":"F",
+            "medalla": "Oro"
+            },
+            "Tonya Verbeek": {
+            "peso":55,
+            "país":"Canada" ,
+            "sexo":"F",
+            "medalla": "Plata"
+            },
+            "Jackeline Rentería Castillo": {
+            "peso":55,
+            "país":"Colombia" ,
+            "sexo":"F",
+            "medalla": "Bronce"
+            },
+             "Yuliya Ratkeviç": {
+            "peso":55,
+            "país":"Azerbaiyán" ,
+            "sexo":"F",
+            "medalla": "Bronce"
+            },
+            "Soronzonboldyn Battsetseg": {
+            "peso":63,
+            "país":"Mongolia" ,
+            "sexo":"F",
+            "medalla": "Bronce"
+            },
+            "Kaori Icho": {
+            "peso":63,
+            "país":"Japon" ,
+            "sexo":"F",
+            "medalla": "Oro"
+            },
+            "Jing Ruixue": {
+            "peso":63,
+            "país":"China" ,
+            "sexo":"F",
+            "medalla": "Plata"
+            },
+            "Liubov Volosova": {
+            "peso":63,
+            "país":"Rusia" ,
+            "sexo":"F",
+            "medalla": "Bronce"
+            },
+            "Natalia Vorobiova": {
+            "peso":72,
+            "país":"Rusia" ,
+            "sexo":"F",
+            "medalla": "Oro"
+            },
+            "Stanka Zlateva": {
+            "peso":72,
+            "país":"Bulgaria" ,
+            "sexo":"F",
+            "medalla": "Plata"
+            },
+            "Maider Unda": {
+            "peso":72,
+            "país":"España" ,
+            "sexo":"F",
+            "medalla": "Bronce"
+            },
+            "Guiuzel Maniurova": {
+            "peso":72,
+            "país":"Kazajistán" ,
+            "sexo":"F",
+            "medalla": "Bronce"
+            }
+        },
+    "url":"https://www .olympedia.or g/editions/54/sports/WRE/",
+    "sede": "Londres, Reino Unido",
+    "instalación":"Centro de Exposiciones ExCeL.Pabellón 2"
+},
+"2016":{
+        "greco-romana":{
+            "Ismael Borrero": {
+            "peso":59,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Shinobu Ota": {
+            "peso":59,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Elmurat Tasmuradov": {
+            "peso":59,
+            "país":"Uzbekistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Stig-André Berge": {
+            "peso":59,
+            "país":"Noruega" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Davor Štefanek": {
+            "peso":66,
+            "país":"Serbia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Mihran Harutiunian": {
+            "peso":66,
+            "país":"Armenia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Shmagui Bolkvadze": {
+            "peso":66,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Rəsul Çunayev": {
+            "peso":66,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Roman Vlasov": {
+            "peso":75,
+            "país":"" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Mark Madsen": {
+            "peso":75,
+            "país":"Dinamarca" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Kim Hyeon-Woo": {
+            "peso":75,
+            "país":"Corea del Sur" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Saeid Abdevali": {
+            "peso":75,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Davit Chakvetadze": {
+            "peso":85,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Zhan Beleniuk": {
+            "peso":85,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Dzhavid Hamzatau": {
+            "peso":85,
+            "país":"Bieorrusia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Denis Kudla": {
+            "peso":85,
+            "país":"Alemania" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Artur Alexanian": {
+            "peso":98,
+            "país":"Armenia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Yasmany Lugo": {
+            "peso":98,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Cenk İldem": {
+            "peso":98,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Gasem Rezaei": {
+            "peso":98,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Mijaín López Núñez": {
+            "peso":130,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Rıza Kayaalp": {
+            "peso":130,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Sabah Şəriəti": {
+            "peso":130,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Serguei Semionov": {
+            "peso":130,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            }
+        },
+        "libre": {
+            "Vladimer Jinchegashvili": {
+            "peso":57,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Rei Higuchi": {
+            "peso":57,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Hacı Əliyev": {
+            "peso":57,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Hasan Rahimi": {
+            "peso":57,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Soslan Ramonov": {
+            "peso":65,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Toğrul Əsgərov": {
+            "peso":65,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Frank Chamizo": {
+            "peso":65,
+            "país":"Italia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Ixtiyor Navruzov": {
+            "peso":65,
+            "país":"Uzbekistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Hasan Yazdani": {
+            "peso":74,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Aniuar Gueduyev": {
+            "peso":74,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Cəbrayıl Həsənov": {
+            "peso":74,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Soner Demirtaş": {
+            "peso":74,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Abdulrashid Sadulayev": {
+            "peso":86,
+            "país":"Rusia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Selim Yaşar": {
+            "peso":86,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Şərif Şərifov": {
+            "peso":86,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "J'den Cox": {
+            "peso":86,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Kyle Snyde": {
+            "peso":97,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Xetaq Qazyumov": {
+            "peso":97,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Albert Saritov": {
+            "peso":97,
+            "país":"Rumania" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Magomed Ibragimov": {
+            "peso":97,
+            "país":"Uzbekistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Taha Akgül": {
+            "peso":125,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Komeil Gasemi": {
+            "peso":125,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Ibrahim Saidau": {
+            "peso":125,
+            "país":"Bieorrusia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Gueno Petriashvili": {
+            "peso":125,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Eri Tosaka": {
+                "peso":48,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Mariya Stadnik": {
+                "peso":48,
+                "país":"Azerbaiyán" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Sun Yanan": {
+                "peso":48,
+                "país":"China" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                 "Elitsa Yankova": {
+                "peso":48,
+                "país":"Bulgaria" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Helen Maroulis": {
+                "peso":53,
+                "país":"EE.UU" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Saori Yoshida": {
+                "peso":53,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Natali Sinişinya": {
+                "peso":53,
+                "país":"Azerbaiyán" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Soﬁa Mattsson": {
+                "peso":53,
+                "país":"Suecia" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Kaori Icho": {
+                "peso":58,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Valeriya Koblova": {
+                "peso":58,
+                "país":"Rusia" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Marwa Amri": {
+                "peso":58,
+                "país":"Tunez" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Sakshi Malik": {
+                "peso":58,
+                "país":"India" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Risako Kawai": {
+                "peso":63,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Maryia Mamashuk": {
+                "peso":63,
+                "país":"Bieorrusia" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Yekaterina Larionova": {
+                "peso":63,
+                "país":"Kazajistán" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Monika Michalik": {
+                "peso":63,
+                "país":"Polonia" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Sara Dosho": {
+                "peso":69,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Natalia Vorobiova": {
+                "peso":69,
+                "país":"Rusia" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Elmira Syzdykova": {
+                "peso":69,
+                "país":"Kazajistán" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Jenny Fransson": {
+                "peso":69,
+                "país":"Suecia" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Erica Wiebe": {
+                "peso":75,
+                "país":"Canada" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Guiuzel Maniurova": {
+                "peso":75,
+                "país":"Kazajistán" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Zhang Fengliu": {
+                "peso":75,
+                "país":"China" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Yekaterina Bukina": {
+                "peso":75,
+                "país":"Rusia" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                }
+        },
+        "url":"https://www.olympedia.org/editions/59/sports/WRE/",
+        "sede": "Río de Janeiro, Brasil",
+        "instalación":"Arena_Carioca_2"
+    },
+    "2020":{
+        "greco-romana":{
+            "Luis Orta Sánchez": {
+            "peso":60,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Kenichiro Fumita": {
+            "peso":60,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Walihan Sailike": {
+            "peso":60,
+            "país":"China" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Serguei Yemelin": {
+            "peso":60,
+            "país":"ROC" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Mohamadreza Gueraei": {
+            "peso":67,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Parviz Nasibov": {
+            "peso":67,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Frank Stäbler": {
+            "peso":67,
+            "país":"Alemania" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Mohamed El-Sa yed": {
+            "peso":67,
+            "país":"Egipto" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Tamás Lőrincz": {
+            "peso":77,
+            "país":"Hungria" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Akzhol Majmudov": {
+            "peso":77,
+            "país":"Kirguistán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Shohei Yabiku": {
+            "peso":77,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Raﬁq Hüseynov": {
+            "peso":77,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Zhan Beleniuk": {
+            "peso":87,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Viktor Lőrincz": {
+            "peso":87,
+            "país":"Hungria" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Denis Kudla": {
+            "peso":87,
+            "país":"Alemania" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Zurab Datunashvili": {
+            "peso":87,
+            "país":"Serbia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Musa Yevloyev": {
+            "peso":97,
+            "país":"ROC" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Artur Alexanian": {
+            "peso":97,
+            "país":"Armenia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Tadeusz Michalik": {
+            "peso":97,
+            "país":"Polonia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Mohammadhadi Saravi": {
+            "peso":97,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Mijaín López Núñez": {
+            "peso":130,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Iakob Kadzhaia": {
+            "peso":130,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Rıza Kayaalp": {
+            "peso":130,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+             "Serguei Semiono v": {
+            "peso":130,
+            "país":"ROC" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            }
+        },
+        "libre": {
+            "Zaur Uguyev": {
+            "peso":57,
+            "país":"ROC" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Ravi Kumar": {
+            "peso":57,
+            "país":"India" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Nurislam Sanayev": {
+            "peso":57,
+            "país":"Kazajistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Thomas Gilman": {
+            "peso":57,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Takuto Otoguro": {
+            "peso":65,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Hacı Əliyev": {
+            "peso":65,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Gadzhimurad Rashidov": {
+            "peso":65,
+            "país":"ROC" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Bajrang Bajrang": {
+            "peso":65,
+            "país":"India" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Zaurbek Sidakov": {
+            "peso":74,
+            "país":"ROC" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Mahamedjabib Kadzimahamedau": {
+            "peso":74,
+            "país":"Bieorrusia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Kyle Dake": {
+            "peso":74,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+             "Bekzod Abdurahmonov": {
+            "peso":74,
+            "país":"Uzbekistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "David Taylor": {
+            "peso":86,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Hasan Yazdani": {
+            "peso":86,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Artur Naifonov": {
+            "peso":86,
+            "país":"ROC" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+             "Myles Amine": {
+            "peso":86,
+            "país":"San Marino" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Abdulrashid Sadulayev": {
+            "peso":97,
+            "país":"ROC" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Kyle Snyder": {
+            "peso":97,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Reineris Salas": {
+            "peso":97,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+             "Abraham Conyedo Ruano": {
+            "peso":97,
+            "país":"Italia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Gable Steveson": {
+            "peso":125,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Gueno Petriashvili": {
+            "peso":125,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Amir Hosein Zare": {
+            "peso":125,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Taha Akgül": {
+            "peso":125,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Yui Susaki": {
+                "peso":50,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Sun Yanan": {
+                "peso":50,
+                "país":"China" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Mariya Stadnik": {
+                "peso":50,
+                "país":"Azerbaiyán" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                 "Sarah Hildebrandt": {
+                "peso":50,
+                "país":"EE.UU" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Mayu Mukaida": {
+                "peso":53,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Pang Qianyu": {
+                "peso":53,
+                "país":"China" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Vanesa Kaladzinskaya": {
+                "peso":53,
+                "país":"Bieorrusia" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                 "Bat-Ochiryn Bolortuyaa": {
+                "peso":53,
+                "país":"Mongolia" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Risako Kawai": {
+                "peso":57,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Iryna Kurachkina": {
+                "peso":57,
+                "país":"Bieorrusia" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Helen Maroulis": {
+                "peso":57,
+                "país":"EE.UU",
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                 "Evelina Nikolova": {
+                "peso":57,
+                "país":"Bulgaria" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Yukako Kawai": {
+                "peso":62,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Aisuluu Tynybekova": {
+                "peso":62,
+                "país":"Kirguistán" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Iryna Koliadenko": {
+                "peso":62,
+                "país":"Ucrania" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Taibe Yusein": {
+                "peso":62,
+                "país":"Bulgaria" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Tamyra Mensah": {
+                "peso":68,
+                "país":"EE.UU" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Blessing Oborududu": {
+                "peso":68,
+                "país":"Nigeria" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Ala Cherkasova": {
+                "peso":68,
+                "país":"Ucrania" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Meerim Zhumanazarova": {
+                "peso":68,
+                "país":"Kirguistán" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Aline Rotter-Focken": {
+                "peso":76,
+                "país":"Alemania" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Adeline Gray": {
+                "peso":76,
+                "país":"EE.UU" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Yasemin Adar": {
+                "peso":76,
+                "país":"Turquía" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Zhou Qian": {
+                "peso":76,
+                "país":"China" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                }
+        },
+        "url":"https://www.olympedia.org/editions/61/sports/WRE",
+        "sede": "Tokio, Japón",
+        "instalación":"Makuhari Messe"
+    },
+    "2024": {
+        "greco-romana":{
+            "Kenichiro Fumita": {
+            "peso":60,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Cao Liguo": {
+            "peso":60,
+            "país":"China" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Zholaman Sharshenbekov": {
+            "peso":60,
+            "país":"Kirguistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Ri Se-Ung": {
+            "peso":60,
+            "país":"Corea del Norte" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Saeid Esmaeili": {
+            "peso":67,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Parviz Nasibov": {
+            "peso":67,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Həsrət Cəfərov": {
+            "peso":67,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+             "Luis Orta Sánchez": {
+            "peso":67,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Nao Kusaka": {
+            "peso":77,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Demeu Zhadyrayev": {
+            "peso":77,
+            "país":"Kazajistán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Maljas Amoyan": {
+            "peso":77,
+            "país":"Armenia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Akzhol Majmudov": {
+            "peso":77,
+            "país":"Kirguistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Semen Novikov": {
+            "peso":87,
+            "país":"Bulgaria" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Alireza Mohmadi": {
+            "peso":87,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Zhan Beleniuk": {
+            "peso":87,
+            "país":"Ucrania" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Turpal Bisultanov": {
+            "peso":87,
+            "país":"Dinamarca" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Mohammad Saravi": {
+            "peso":97,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Artur Alexanian": {
+            "peso":97,
+            "país":"Armenia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Gabriel Rosillo Kindelán": {
+            "peso":97,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Uzur Dzhuzupbekov": {
+            "peso":97,
+            "país":"Kirguistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Mijaín López Núñez": {
+            "peso":130,
+            "país":"Cuba" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Yasmani Acosta": {
+            "peso":130,
+            "país":"Chile" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Amin Mirzazadeh": {
+            "peso":130,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+             "Meng Lingzhe": {
+            "peso":130,
+            "país":"China" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            }
+        },
+        "libre": {
+            "Rei Higuchi": {
+            "peso":57,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Spencer Lee": {
+            "peso":57,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Aman Sehrawat": {
+            "peso":57,
+            "país":"India" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Gʻulomjon Abdullayev": {
+            "peso":57,
+            "país":"Uzbekistán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Kotaro Kiyooka": {
+            "peso":65,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Rahman Amuzad": {
+            "peso":65,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Sebastián Rivera": {
+            "peso":65,
+            "país":"Puerto Rico" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Islam Dudayev": {
+            "peso":65,
+            "país":"Albania" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Razambek Jamalov": {
+            "peso":74,
+            "país":"Uzbekistán" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Daichi Takatani": {
+            "peso":74,
+            "país":"Japon" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Kyle Dake": {
+            "peso":74,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+             "Chermen Valiev": {
+            "peso":74,
+            "país":"Albania" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Magomed Ramazanov": {
+            "peso":86,
+            "país":"Bulgaria" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Ajmed Tazhudinov": {
+            "peso":97,
+            "país":"Baréin" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Hasan Yazdani": {
+            "peso":86,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+             "Aaron Brooks": {
+            "peso":86,
+            "país":"EE.UU" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Dauren Kurugliyev": {
+            "peso":86,
+            "país":"Grecia" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Guivi Macharashvili": {
+            "peso":97,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Maqomedxan Maqomedov": {
+            "peso":97,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+             "Amir Ali Azarpira": {
+            "peso":97,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Gueno Petriashvili": {
+            "peso":125,
+            "país":"Georgia" ,
+            "sexo":"M",
+            "medalla": "Oro"
+            },
+            "Amir Hossein Zare": {
+            "peso":125,
+            "país":"Irán" ,
+            "sexo":"M",
+            "medalla": "Plata"
+            },
+            "Giorgi Meşvildişvili": {
+            "peso":125,
+            "país":"Azerbaiyán" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Taha Akgül": {
+            "peso":125,
+            "país":"Turquía" ,
+            "sexo":"M",
+            "medalla": "Bronce"
+            },
+            "Sarah Hildebrandt": {
+                "peso":50,
+                "país":"EE.UU" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Yusneylis Guzmán": {
+                "peso":50,
+                "país":"Cuba" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Yui Susaki": {
+                "peso":50,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                 "Feng Ziqi": {
+                "peso":50,
+                "país":"China" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Akari Fujinami": {
+                "peso":53,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Lucía Yépez Guzmán": {
+                "peso":53,
+                "país":"Ecuador" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Choe Hyo-Gyong": {
+                "peso":53,
+                "país":"Corea del Norte" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Pang Qianyu": {
+                "peso":53,
+                "país":"China" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Tsugumi Sakurai": {
+                "peso":57,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Anastasia Nichita": {
+                "peso":57,
+                "país":"Moldavia" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Helen Maroulis": {
+                "peso":57,
+                "país":"EE.UU" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                 "Hong Kexin": {
+                "peso":57,
+                "país":"China" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Sakura Motoki": {
+                "peso":62,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Iryna Koliadenko": {
+                "peso":62,
+                "país":"Ucrania" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Aisuluu Tynybekova": {
+                "peso":62,
+                "país":"Kirguistán" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Grace Bullen": {
+                "peso":62,
+                "país":"Noruega" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Amit Elor": {
+                "peso":68,
+                "país":"EE.UU" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Meerim Zhumanazarova": {
+                "peso":68,
+                "país":"Kirguistán" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Buse Tosun": {
+                "peso":68,
+                "país":"Turquía" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Nonoka Ozaki": {
+                "peso":68,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Yuka Kagami": {
+                "peso":76,
+                "país":"Japon" ,
+                "sexo":"F",
+                "medalla": "Oro"
+                },
+                "Kennedy Blades": {
+                "peso":76,
+                "país":"EE.UU" ,
+                "sexo":"F",
+                "medalla": "Plata"
+                },
+                "Milaimy Marín Potrillé": {
+                "peso":76,
+                "país":"Cuba" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                },
+                "Tatiana Rentería": {
+                "peso":76,
+                "país":"Colombia" ,
+                "sexo":"F",
+                "medalla": "Bronce"
+                }
+        },
+        "url":"https://www.olympedia.org/editions/63/sports/WRE",
+        "sede": "París, Francia",
+        "instalación":"Arena Campo de Marte"
+    }
+}
